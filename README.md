@@ -1,5 +1,5 @@
 # 💫 About Me:
-Self-taught Programmer who has been writing code as a hobby for over 10 years. Credited in a game with over 2 Million unique players, Proficient with Python and also exploring other technologies such as C#/Kotlin/Javascript. Recently finished a Software Engineering bootcamp where I ranked 20 out of 876 students. Currently working at Glider as a QA Engineer.<br><br>- 🔭 I’m currently working on [Django Estate Agent](https://github.com/SvenMC/django_estate_agent)<br><br>- 🌱 I’m currently learning **Django and React**<br><br>- 📫 How to reach me **svencooke7@gmail.com**
+Self-taught Programmer who has been writing code as a hobby for over 10 years. Credited in a game with over 2 Million unique players, Proficient with Python and also exploring other technologies such as C#/Kotlin/Javascript. Recently finished a Software Engineering bootcamp where I ranked 20 out of 876 students. Currently working at Glider as a QA Engineer.<br><br>- 🔭 I’m currently working on [Django Estate Agent](https://github.com/SvenMC/django_estate_agent)<br><br>- 🌱 I’m currently learning **Django and React**<br><br>- 📫 How to reach me **contact@svenmc.dev**
 
 
 ## 🌐 Socials:
