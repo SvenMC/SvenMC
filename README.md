@@ -1,6 +1,14 @@
 # 💫 About Me:
-Self-taught Programmer who has been writing code as a hobby for over 10 years. Credited in a game with over 2 Million unique players, Proficient with Python and also exploring other technologies such as C#/Kotlin/Javascript. Recently finished a Software Engineering bootcamp where I ranked 20 out of 876 students. Currently working at Glider as a QA Engineer.<br><br>- 🔭 I’m currently working on [Django Estate Agent](https://github.com/SvenMC/django_estate_agent)<br><br>- 🌱 I’m currently learning **Django and React**<br><br>- 📫 How to reach me **contact@svenmc.dev**
+Self-taught Programmer who has been writing code as a hobby for over 10 years. Credited in a game with over 2 Million unique players, Proficient with Python, Typescript and C#. Currently working at Glider as a QA Automation Engineer.<br><br>
 
+- 🔭 Planning on migrating various projects such as [Django Estate Agent](https://github.com/SvenMC/django_estate_agent) to .NET.<br><br>
+
+- 🌱 I’m currently learning **.NET and React**<br><br>
+
+- 📫 How to reach me **contact@svenmc.dev**
+
+<br><br>
+For my current role I don't use Github, so my commit history will be a bit sparse.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/svenmc) 
