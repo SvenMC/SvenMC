@@ -15,7 +15,6 @@ Self-taught Programmer who has been writing code as a hobby for over 10 years. C
 #### Misc
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-![](https://raw.githubusercontent.com/SvenMC/stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SvenMC/stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
